@@ -1,4 +1,8 @@
-## [맛있는 알고리즘 바로가기](https://matal.store)
+<div align="center">
+
+# [맛있는 알고리즘 바로가기](https://matal.store)
+
+</div>
 
 
 ![소개글-1](https://github.com/user-attachments/assets/65a50d31-6114-4d2f-baab-616cf8b0b2fb)
