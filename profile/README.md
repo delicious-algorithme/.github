@@ -26,5 +26,5 @@
 | ---- | ---- | ---- |
 | <img src="https://avatars.githubusercontent.com/u/65225128?v=4" width=200 /> | **[gogo1414](https://github.com/gogo1414)** | 백엔드 |
 | <img alt="image" src="https://github.com/user-attachments/assets/26fa4890-29e6-458f-af5d-7fa36c9bdd94" width=200 /> | **[mrri-18](https://github.com/mrri-18)** | 백엔드 |
-| <img src="https://via.placeholder.com/100" width=200 /> | **[yeoncheong08](https://github.com/yeoncheong08)** | 백엔드 |
+| <img src="https://avatars.githubusercontent.com/u/104972673?v=4" width=200 /> | **[yeoncheong08](https://github.com/yeoncheong08)** | 백엔드 |
 
