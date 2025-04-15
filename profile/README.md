@@ -14,7 +14,7 @@
 ### 데이터 수집 및 AI
 | 사진 | 이름 | 역할 |
 | ---- | ---- | ---- |
-| <img src="https://via.placeholder.com/100" width=200 /> | **[wodusl](https://github.com/wodusl)** | 데이터 수집 및 AI |
+| <img src="https://avatars.githubusercontent.com/u/167263243?v=4" width=200 /> | **[wodusl](https://github.com/wodusl)** | 데이터 수집 및 AI |
 
 ### 프론트엔드
 | 사진 | 이름 | 역할 |
